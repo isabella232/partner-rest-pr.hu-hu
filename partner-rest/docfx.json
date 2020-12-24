@@ -35,10 +35,16 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "bilingual_type": "hover over",
+      "disable_contribution_on_translation_quality": [
+        "MT",
+        "MTE75",
+        "MTE95",
+        "Blank"
+      ],
       "breadcrumb_path": "/partner/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None",
-      "feedback_github_repo": "MicrosoftDocs/partner-rest",
       "titleSuffix": "Partner",
       "ms.author": "jasonh",
       "author": "JasonWHowell",
