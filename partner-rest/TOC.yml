@@ -1,0 +1,45 @@
+- name: Partner fejlesztői dokumentációja
+  href: index.yml
+  items:
+    - name: Áttekintések és forgatókönyvek
+      href: develop/index.md
+      items:
+        - name: Bevezetés
+          href: develop/get-started.md
+          items:
+            - name: Partner API hitelesítése
+              href: develop/api-authentication.md
+        - name: Forgatókönyvek
+          href: develop/scenarios.md
+          items:
+            - name: Javaslatok
+              href: develop/referrals.md
+              items:
+                - name: Érdeklődők és lehetőségek listájának lekérése
+                  href: develop/get-a-list-of-referrals.md
+                - name: Érdeklődő vagy lehetőség lekérése azonosító alapján
+                  href: develop/get-a-referral-by-id.md
+                - name: Érdeklődő vagy lehetőség frissítése
+                  href: develop/patch-a-referral.md
+                - name: Új lehetőség létrehozása
+                  href: develop/create-a-referral.md
+                - name: Javaslati erőforrások
+                  href: develop/referral-resources.md
+            - name: Díjszabás
+              href: develop/pricing.md
+              items:
+                - name: Árlista lekérése
+                  href: develop/get-a-price-sheet.md
+                - name: Valutaátváltási árfolyamok lekérése
+                  href: develop/get-foreign-exchange-rates.md
+    - name: REST API-referencia
+      href: develop/rest-api-reference.md
+      items:
+        - name: REST-végpont URL-címei
+          href: develop/rest-urls.md
+        - name: REST-fejlécek
+          href: develop/headers.md
+        - name: REST-hibakódok
+          href: develop/error-codes.md
+        - name: REST-erőforrások
+          href: develop/rest-resources.md
