@@ -1,0 +1,37 @@
+### YamlMime:Landing
+title: Microsoft Partner REST API
+summary: A Microsoft Partner REST API a Microsoft Partner Center API utódja. Ez az API lehetővé teszi, hogy programozott módon érje el a partnerközpont képességeit.
+metadata:
+  title: Partnerközpont fejlesztői dokumentációja
+  description: A Microsoft Partner REST API a Microsoft Partner Center API utódja. Ez az API lehetővé teszi, hogy programozott módon érje el a partnerközpont képességeit.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-sdk
+  ms.topic: landing-page
+  author: jasonwhowell
+  ms.author: jasonh
+  ms.date: 04/09/2020
+  ms.openlocfilehash: 163c778485f25318e1263a2064ded44fe617f8af
+  ms.sourcegitcommit: 3c165938f544ff226cbe11ca21ed5aa00448d9b4
+  ms.translationtype: MT
+  ms.contentlocale: hu-HU
+  ms.lasthandoff: 04/23/2020
+  ms.locfileid: "97766488"
+landingContent:
+- title: Microsoft Partner API-dokumentációk és -forrásanyagok
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: Első lépések a Partner REST API-val
+      url: develop/get-started.md
+    - text: A Partner REST API által támogatott forgatókönyvek
+      url: develop/scenarios.md
+  - linkListType: reference
+    links:
+    - text: Partner REST API
+      url: develop/rest-api-reference.md
+  - linkListType: how-to-guide
+    links:
+    - text: Javaslatok programozott módon történő kezelése
+      url: develop/referrals.md
+    - text: A CSP díjszabásának programozott lekérése
+      url: develop/pricing.md
