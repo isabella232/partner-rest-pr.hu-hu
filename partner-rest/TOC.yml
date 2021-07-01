@@ -30,6 +30,8 @@
               items:
                 - name: Árlista lekérése
                   href: develop/get-a-price-sheet.md
+                - name: Ajánlatmátrix lekérte
+                  href: develop/get-an-offer-matrix.md
                 - name: Valutaátváltási árfolyamok lekérése
                   href: develop/get-foreign-exchange-rates.md
     - name: REST API-referencia
